@@ -1,0 +1,65 @@
+body {
+  font-family: sans-serif;
+}
+header {
+  margin-top: 20px;
+}
+.usuario {
+  border-radius: 4vh;
+}
+ul {
+  list-style: none;
+  display: inline-block;
+}
+li {
+  display: inline-block;
+  margin-right: 10px;
+}
+a {
+  color: rgb(87, 86, 86);
+}
+li:hover {
+  text-decoration: underline;
+}
+.derecha {
+  float: right;
+  margin-right: 20px;
+}
+.google {
+  width: 600px;
+  height: 400px;
+  margin: 0px auto;
+  text-align: center;
+}
+.button {
+  background-color: rgb(241, 241, 241);
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 7px;
+}
+.button:hover {
+  border: gray 1px solid;
+  display: inline-block;
+}
+span {
+  color: blue;
+}
+span:hover {
+  text-decoration: underline;
+}
+footer {
+  background-color: rgb(241, 241, 241);
+  position: absolute;
+  bottom: 5px;
+  width: 99%;
+  color: rgb(80, 80, 80);
+}
+.barraEspaña {
+  border-bottom: 1px solid rgb(194, 189, 189);
+}
+p {
+  padding-left: 15px;
+}
+.padding {
+  padding-left: 10px;
+}
